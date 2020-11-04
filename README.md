@@ -8,9 +8,11 @@
 	</tr>
 </table>
 
+
 ## Live demo
 
 https://kzhecheva.github.io/robofriends
+
 
 
 ### Home Page
@@ -20,6 +22,7 @@ https://kzhecheva.github.io/robofriends
 ### Searching for User
 
 ![search](https://github.com/kzhecheva/robofriends/blob/main/public/Search.png)
+
 
 
 ## Built with
