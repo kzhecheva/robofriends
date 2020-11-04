@@ -9,6 +9,12 @@
 </table>
 
 
+## Live demo
+
+https://kzhecheva.github.io/robofriends
+
+
+
 ### Home Page
 
 ![homepage](https://github.com/kzhecheva/robofriends/blob/main/public/Robofriends.png)
@@ -16,6 +22,8 @@
 ### Searching for User
 
 ![search](https://github.com/kzhecheva/robofriends/blob/main/public/Search.png)
+
+
 
 ## Built with
 
