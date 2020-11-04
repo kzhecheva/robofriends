@@ -8,6 +8,15 @@
 	</tr>
 </table>
 
+
+### Home Page
+
+![homepage](https://octodex.github.com/images/yaktocat.png)
+
+### Searching for User
+
+![search](https://user-images.githubusercontent.com/35633575/48636896-2bbd8c00-e9f2-11e8-9aba-38ce00699f55.png)
+
 ## Built with
 
 - [ReactJS](https://reactjs.org/) - React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
