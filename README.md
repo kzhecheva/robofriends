@@ -11,11 +11,11 @@
 
 ### Home Page
 
-![homepage](https://github.com/kzhecheva/robofriends/blob/main/public/logo192.png)
+![homepage](https://github.com/kzhecheva/robofriends/blob/main/public/Robofriends.png)
 
 ### Searching for User
 
-![search](https://user-images.githubusercontent.com/35633575/48636896-2bbd8c00-e9f2-11e8-9aba-38ce00699f55.png)
+![search](https://github.com/kzhecheva/robofriends/blob/main/public/Search.png)
 
 ## Built with
 
