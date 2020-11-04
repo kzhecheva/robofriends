@@ -11,7 +11,7 @@
 
 ### Home Page
 
-![homepage](https://octodex.github.com/images/yaktocat.png)
+![homepage](https://github.com/kzhecheva/robofriends/blob/main/public/logo192.png)
 
 ### Searching for User
 
